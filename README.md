@@ -1,4 +1,4 @@
-# Car salesdashboard
+# Power BI Car Sales Dashboard
 Car Sales Performance Dashboard 🚗📊
 A dynamic Power BI dashboard designed to provide actionable insights into car sales performance across various metrics including revenue, volume, and vehicle specifications.
 
